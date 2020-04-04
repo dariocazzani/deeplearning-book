@@ -1,5 +1,9 @@
 # [Deep Learning - I. Goodfellow, Y. Bengio, A. Courville](http://www.deeplearningbook.org)
 
+## Purpose
+The purpose of this repo is **purely educational**. <br>
+All scripts and equations are meant as a help for those who wish to have a better understanding of the subjects explained in the book.
+
 ## Requirements:
 * python >= 3.6
 * ```pip install -r requirements.txt```
