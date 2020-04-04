@@ -20,4 +20,5 @@ These are the lectures for a machine learning course taught by Nando de Freitas 
     publisher={MIT Press},
     note={\url{http://www.deeplearningbook.org}},
     year={2016}
-}```
+}
+```
