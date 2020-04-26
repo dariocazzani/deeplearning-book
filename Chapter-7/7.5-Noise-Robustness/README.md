@@ -11,12 +11,12 @@ For more details about the theory, see paragraph 7.5 from [Chapter 7 - Regulariz
 pip install -r requirements.txt
 ```
 ## · Run experiments:
-### 1. Train without adding noise to the parameters
+### Train without adding noise to the parameters
 ```bash
 python train.py --train-eta 0.0 --test-eta 0.1
 ```
 
-### 2. Train with added noise to the parameters
+### Train with added noise to the parameters
 ```bash
 python train.py --train-eta 0.1 --test-eta 0.1
 ```
